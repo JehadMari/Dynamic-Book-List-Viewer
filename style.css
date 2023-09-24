@@ -1,0 +1,18 @@
+a {
+    color: inherit; /* Use the color of the parent element's text (usually black or default color) */
+    text-decoration: none; /* Remove the underline */
+}
+
+a:hover {
+    text-decoration: none; /* Remove underline on hover */
+    color: inherit; /* Use the color of the parent element's text on hover */
+}
+
+#bookList{
+    text-align: center;
+    justify-content: center;
+}
+
+.card-img-top{
+    width: 50%;
+}
