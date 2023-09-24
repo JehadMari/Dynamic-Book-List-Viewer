@@ -19,7 +19,7 @@ This web application allows you to view and interact with a dynamic book list. Y
 ## Usage
 
 1. Clone this repository to your local machine.
-2. Open `pdf-reader.html` in your web browser.
+2. Open `index.html` in your web browser.
 
 ## Contributing
 
